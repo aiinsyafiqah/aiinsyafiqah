@@ -6,7 +6,7 @@ I just finished my 6 months internship as a L2 IT Support where I managed incide
 
 Now I'm working on strengthening my programming skills specifically in Javascript, web development and Node.JS ✏️ 
 
-Outside of tech interest, I also interested in arts and vlogging (mostly o capture a little memory for myself).📷
+Outside of tech interest, I also interested in arts and vlogging (mostly to capture a little memory for myself).📷
 <!--
 **aiinsyafiqah/aiinsyafiqah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
